@@ -1,2 +1,2 @@
-updated : New server 
-updated : New server 
+updated : 1 Device 1 Server Update 
+updated : 1 Device 1 Server Update 
