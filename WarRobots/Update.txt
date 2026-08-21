@@ -1,2 +1,2 @@
-updated : 1 Device 1 Server Update 
-updated : 1 Device 1 Server Update 
+last updated : 2026/08/22
+updated : Fixed Bugs Request From Server
