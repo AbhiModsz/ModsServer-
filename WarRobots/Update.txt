@@ -1,2 +1,2 @@
-last updated : 2026/08/22
-updated : Fixed Bugs Request From Server
+last updated : 2026/08/23
+updated : Beta Version Spwn Crash Fixed For Some Device 
