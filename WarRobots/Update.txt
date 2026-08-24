@@ -1,2 +1,2 @@
-last updated : 2026/08/23
-updated : Beta Version Spwn Crash Fixed For Some Device 
+last updated : 2026/08/24
+updated : Updated v12.3.1
