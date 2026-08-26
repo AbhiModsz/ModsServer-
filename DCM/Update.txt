@@ -5,3 +5,5 @@ added : Basic Attack speed
 added : Auto Gravity 
 added : Force Morph Mode
 added : infinity Morph Mode
+added : No Fly Monsters
+
