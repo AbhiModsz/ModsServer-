@@ -1,2 +1,7 @@
-updated : New Update Key system 
-
+last updated : 2026/08/27
+added : Teleport To Monster
+added : Mass Teleport 
+added : Basic Attack speed 
+added : Auto Gravity 
+added : Force Morph Mode
+added : infinity Morph Mode
