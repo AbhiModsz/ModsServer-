@@ -1,2 +1,2 @@
-last updated : 2026/08/25
-updated : Updated v12.3.1
+last updated : 2026/08/27
+updated : full version updated test itif working feedback please 
