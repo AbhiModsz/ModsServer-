@@ -1,5 +1,5 @@
 last updated : 2026/08/27
-added : Crc bypass change 
-added : Signature verification bypass change 
+updated : Crc bypass change 
+updated : Signature verification bypass change 
 updated : Improve login system 
 added : Added Auto translate support multiple languages using Google translate api 
