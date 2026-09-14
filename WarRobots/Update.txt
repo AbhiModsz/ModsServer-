@@ -1,3 +1,4 @@
-last updated : 2026/09/15
-added : Force Effects
-added : online update support 
+Last Updated : 2026/09/15
+Added : Force Effects
+Added : Online Update Support
+Fixed : Bugs
