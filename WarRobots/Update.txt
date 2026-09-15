@@ -1,5 +1,5 @@
 Last Updated : 2026/09/15
-Added : Force Effects
+Removed : Force Effects
 Added : Online Update Support
 Fixed : Bugs
 Update : Improved Security
